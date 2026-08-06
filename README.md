@@ -62,11 +62,11 @@ interests:
 
 ### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/bar_chart/default/24px.svg" width="25px"/> GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=therivalsx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&ring_color=8B5CF6" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=therivalsx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" width="100%"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=therivalsx&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=therivalsx&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="100%"/>
 
 </td>
 </tr>
@@ -95,16 +95,11 @@ interests:
 <!-- Spotify Card -->
 <div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Activity
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Vibes
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31fmejllorxdu2eyq7qq7filpqaa)
-
-<!-- Eğer bu da çalışmazsa aşağıdaki basit badge'i kullan -->
-<!-- 
-<a href="https://open.spotify.com/user/31fmejllorxdu2eyq7qq7filpqaa">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="50"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true&bar_color=8b5cf6&mode=dark" alt="Spotify Now Playing"/>
 </a>
--->
 
 </div>
 
@@ -176,8 +171,8 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therivalsx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=therivalsx&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=therivalsx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=therivalsx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
 
 </div>
 
@@ -200,9 +195,9 @@ interests:
 <!-- Achievements & Trophies -->
 <div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/trophy/default/48px.svg" width="35px"/> Achievements & Trophies
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/trophy/default/48px.svg" width="35px"/> GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=therivalsx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=therivalsx&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" width="100%"/>
 
 </div>
 
@@ -213,25 +208,29 @@ interests:
 
 <br>
 
-<!-- Featured Projects -->
+<!-- Featured Projects - İstersen yorum satırlarını açıp repo adlarını ekleyebilirsin -->
+<!--
 <div align="center">
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/folder_special/default/48px.svg" width="35px"/> Featured Projects
 
+<a href="https://github.com/therivalsx/REPO_ADI">
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=therivalsx&repo=REPO_ADI&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/therivalsx/REPO_ADI_2">
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=therivalsx&repo=REPO_ADI_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+</a>
+
 </div>
 
-<div align="center">
+<br>
 
-<!-- Favori repolarını buraya ekleyebilirsin -->
-<!-- Örnek: -->
-<!--
-<a href="https://github.com/therivalsx/REPO_ADI">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=therivalsx&repo=REPO_ADI&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
 -->
 
-</div>
-
 <br>
 
 <!-- Animated Divider -->
@@ -239,34 +238,7 @@ interests:
 
 <br>
 
-<!-- Coding Activity -->
-<div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/schedule/default/48px.svg" width="35px"/> Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<br>
-
-<!-- Recent Activity -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/history/default/48px.svg" width="35px"/> Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
 
 <!-- Contact Section -->
 <div align="center">
@@ -296,24 +268,7 @@ interests:
 
 <br>
 
-<!-- Support Section -->
-<div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/favorite/default/48px.svg" width="35px"/> Support My Work
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
-</a>
-<a href="https://ko-fi.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="40"/>
-</a>
-<a href="https://www.patreon.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="40"/>
-</a>
-
-</div>
-
-<br>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -328,27 +283,7 @@ interests:
 
 <br>
 
-<!-- Random Dev Quote -->
-<div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/format_quote/default/48px.svg" width="35px"/> Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do" />
-
-</div>
-
-<br>
-
-<!-- Random Dev Meme -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/sentiment_very_satisfied/default/48px.svg" width="35px"/> Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117" alt="Jokes Card" />
-
-</div>
-
-<br>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
