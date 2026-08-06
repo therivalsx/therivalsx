@@ -82,7 +82,7 @@ interests:
 <!-- Discord Presence Card -->
 <div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/discord/default/48px.svg" width="35px"/> Discord Presence
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/forum/default/48px.svg" width="35px"/> Discord Presence
 
 <a href="https://discord.com/users/304280842623254529">
 <img src="https://lanyard.cnrad.dev/api/304280842623254529?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
@@ -97,8 +97,8 @@ interests:
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Vibes
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true&bar_color=8b5cf6&mode=dark" alt="Spotify Now Playing"/>
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing"/>
 </a>
 
 </div>
