@@ -95,11 +95,16 @@ interests:
 <!-- Spotify Card -->
 <div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Playing
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Activity
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b5cf6&bar_color_cover=true" alt="Spotify Now Playing"/>
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31fmejllorxdu2eyq7qq7filpqaa)
+
+<!-- Eğer bu da çalışmazsa aşağıdaki basit badge'i kullan -->
+<!-- 
+<a href="https://open.spotify.com/user/31fmejllorxdu2eyq7qq7filpqaa">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="50"/>
 </a>
+-->
 
 </div>
 
