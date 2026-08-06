@@ -192,22 +192,6 @@ interests:
 
 <br>
 
-<!-- Achievements & Trophies -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/trophy/default/48px.svg" width="35px"/> GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=therivalsx&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" width="100%"/>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
 <!-- Featured Projects - İstersen yorum satırlarını açıp repo adlarını ekleyebilirsin -->
 <!--
 <div align="center">
