@@ -11,7 +11,7 @@
 <br>
 
 <!-- Profile Views Counter with Animation -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=therivalsx&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -62,11 +62,11 @@ interests:
 
 ### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/bar_chart/default/24px.svg" width="25px"/> GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&ring_color=8B5CF6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=therivalsx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&ring_color=8B5CF6" width="100%"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=therivalsx&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="100%"/>
 
 </td>
 </tr>
@@ -84,8 +84,8 @@ interests:
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/discord/default/48px.svg" width="35px"/> Discord Presence
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
+<a href="https://discord.com/users/304280842623254529">
+<img src="https://lanyard.cnrad.dev/api/304280842623254529?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
 </a>
 
 </div>
@@ -97,8 +97,8 @@ interests:
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Playing
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b5cf6&bar_color_cover=true" alt="Spotify Now Playing"/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b5cf6&bar_color_cover=true" alt="Spotify Now Playing"/>
 </a>
 
 </div>
@@ -171,8 +171,8 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therivalsx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=therivalsx&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
 
 </div>
 
@@ -181,7 +181,7 @@ interests:
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=therivalsx&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -197,7 +197,7 @@ interests:
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/trophy/default/48px.svg" width="35px"/> Achievements & Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=therivalsx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -217,23 +217,13 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/PROJECT1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT1&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+<!-- Favori repolarını buraya ekleyebilirsin -->
+<!-- Örnek: -->
+<!--
+<a href="https://github.com/therivalsx/REPO_ADI">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=therivalsx&repo=REPO_ADI&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
 </a>
-
-<a href="https://github.com/USERNAME/PROJECT2">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT2&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/USERNAME/PROJECT3">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT3&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/USERNAME/PROJECT4">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT4&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-</a>
+-->
 
 </div>
 
@@ -281,18 +271,21 @@ interests:
 <a href="mailto:therivalsx@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" height="35"/>
 </a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/304280842623254529">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" height="35"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
+<!-- İstersan diğer sosyal medya hesaplarını ekleyebilirsin -->
+<!--
+<a href="https://twitter.com/USERNAME">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" height="35"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" height="35"/>
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/USERNAME">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" height="35"/>
 </a>
+-->
 
 </div>
 
@@ -321,9 +314,9 @@ interests:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therivalsx/therivalsx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therivalsx/therivalsx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/therivalsx/therivalsx/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
