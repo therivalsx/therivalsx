@@ -61,7 +61,7 @@ interests:
 <br>
 <div align="center">
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/music_note/default/48px.svg" width="35px"/> Spotify Vibes
+## <img src="https://camo.githubusercontent.com/7eb870d668764daf1a19f7688e6bb3a7e6afc22cfbba20b10e133a7638ed439a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73706f74696679" width="35px"/> Spotify Vibes
 <a href="https://github.com/kittinan/spotify-github-profile">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmejllorxdu2eyq7qq7filpqaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing"/>
 </a>
