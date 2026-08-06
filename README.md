@@ -223,23 +223,6 @@ interests:
 
 </div>
 
-<br>
-
-<!-- Support Section -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/favorite/default/48px.svg" width="35px"/> Support My Work
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
-</a>
-<a href="https://ko-fi.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="40"/>
-</a>
-<a href="https://www.patreon.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="40"/>
-</a>
-
 </div>
 
 <br>
@@ -257,25 +240,7 @@ interests:
 
 <br>
 
-<!-- Random Dev Quote -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/format_quote/default/48px.svg" width="35px"/> Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do" />
-
-</div>
-
 <br>
-
-<!-- Random Dev Meme -->
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/sentiment_very_satisfied/default/48px.svg" width="35px"/> Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117" alt="Jokes Card" />
-
-</div>
 
 <br>
 
