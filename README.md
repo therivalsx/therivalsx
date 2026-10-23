@@ -54,8 +54,8 @@ interests:
 <div align="center">
 
 ## <img src="https://camo.githubusercontent.com/85aa751dc3fe1afcaa059b02c17594765a685b3702870c51bb9ebd9d95e6914b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264" width="35px"/> Discord Presence
-<a href="https://discord.com/users/304280842623254529">
-<img src="https://lanyard.cnrad.dev/api/304280842623254529?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
+<a href="https://discord.com/users/773444831657197598">
+<img src="https://lanyard.cnrad.dev/api/773444831657197598?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
 </a>
 </div>
 <br>
@@ -122,7 +122,7 @@ interests:
 <a href="mailto:therivalsx@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" height="35"/>
 </a>
-<a href="https://discord.com/users/304280842623254529">
+<a href="https://discord.com/users/773444831657197598">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" height="35"/>
 </a>
 </div>
